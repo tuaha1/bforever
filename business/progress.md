@@ -1,5 +1,9 @@
 # Onboarding Progress
 
+## Receipts
+- [ ] Receipt set up (phone number, look approved)
+- [ ] First real receipt sent to a customer
+
 ## Phase 1: Numbers (حساب کتاب)
 - [ ] First conversation done, and we know how she likes to be addressed
 - [ ] Team: who works, roles, how and how much they're paid

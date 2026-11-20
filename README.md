@@ -6,6 +6,11 @@ companion.
 
 - `CLAUDE.md` sets out how Claude behaves with her: Urdu only, a warm feminine
   voice, one question at a time, starting with the business numbers.
+- **Receipts:** whenever she makes a sale, she tells Claude the details in
+  Urdu. Claude makes a receipt image (`tools/receipt/`; see
+  `tools/receipt/sample.png`), she sends it to the customer on WhatsApp, and
+  the sale goes into `business/sales/` (customers, orders, payments).
+  `node tools/sales-report.js` shows pending balances and monthly sales.
 - `business/` holds what she has told Claude so far: profile, team, finances,
   progress checklist and a log of each conversation. Claude writes these files
   in English so you can review them.

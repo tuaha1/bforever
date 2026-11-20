@@ -1,0 +1,12 @@
+{
+  "receipt_no": "BF-0001",
+  "date": "2026-11-20",
+  "customer": { "name": "Ayesha Siddiqui", "phone": "+91 98765 43210", "city": "Ambur" },
+  "items": [
+    { "name": "Bridal Lehenga", "name_ur": "دلہن کا لہنگا", "details": "Maroon raw silk, zardosi and aari work", "qty": 1, "rate": 45000 },
+    { "name": "Designer Blouse", "name_ur": "ڈیزائنر بلاؤز", "details": "Hand embroidered sleeves", "qty": 2, "rate": 3500 }
+  ],
+  "discount": 2000,
+  "payments": [ { "date": "2026-11-20", "amount": 20000, "method": "UPI", "note": "Advance" } ],
+  "delivery_date": "2026-12-15"
+}
